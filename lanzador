@@ -1,0 +1,7 @@
+#!usr/bin/python3
+
+from paquete.inicio import VentanaInicio
+from gi.repository import Gtk
+
+VentanaInicio()
+Gtk.main()

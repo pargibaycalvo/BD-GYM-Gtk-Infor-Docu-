@@ -1,0 +1,44 @@
+-Proyecto Python 6150 Gestión GYM-
+
+EXPLICACIÓN RESUMIDA:
+
+El proyecto es una gestión de bases de datos con clientes, entrenadores,
+secretarios y administradores.
+
+Clientes:
+Base de datos con los datos de los clientes y sus objetivos en el gym.
+
+Entrenadores:
+Consultan los nombres y apellidos de los clientes y sus objetivos, los datos mas personales
+no los podrán ver, salvo que el admin le de su consentimiento.
+
+Secretarios:
+Pueden añadir nuevos usuarios a la tabla de clientes, consultar los clientes en la
+base de datos y borrar clientes mendiante el dni del mismo.
+
+Administradores:
+Este usuario tiene el poder de todo, añade clientes, nuevos entrenadores, nuevos secretarios
+y nuevos administradores. 
+Puede consultar las tablas de admin, entrenadores, secretarios y entrenadores.
+También puede borrar datos de las tablas.
+
+PARA SU FUNCIONAMIENTO:
+
+El programa al iniciar nos daŕa la bienvenida en la propia venta y en la misma no sale
+como queremos logearnos:
+
+Recepcion- User(recep) pass(1234)
+Entrendores- User(trainer) pass(abc321.)
+Administradores- User(root) pass(abc123.)
+//estos usuarios están registrados en la base de datos cada uno en su tabla
+correspondiente, si introducimos mal las credenciales nos dará un error.
+
+OBSERVACIONES AL DETALLE:
+
+Si nos logeamos como Entrenador y queremos ver la base de datos, nos pide la 
+pass de admin, si pulsamos el boton que esta en la ventana con el 
+símbolo (?) en azul nos sale el mensaje de que necesitamos las credenciales de admin.
+
+
+
+
