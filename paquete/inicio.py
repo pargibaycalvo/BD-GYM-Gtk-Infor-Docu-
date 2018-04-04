@@ -3,9 +3,10 @@ import sys
 import paquete.log
 import paquete.logTrainer
 import paquete.informes
+import paquete.logRecep
 import gi
 
-import paquete.logRecep
+
 
 gi.require_version('Gtk','3.0')
 from gi.repository import Gtk
