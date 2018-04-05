@@ -12,7 +12,7 @@ Intenté realizarlo en Ubuntu, pero me salta el fallo de platypus. Si le retiro 
 El programa fue probado y testeado en Ubuntu Mate, en Mac y Ubuntu 17 salta un fallo de import en el "lanzador" si es así habría que cambiar los import o bien ejecutarlo desde el Pycharm.
 
 # Para logearte en el proyecto:
-Como administrador (User: root Passw: abc123.)
-Como recepcion (User: recep Passw: 1234)
-Como entrandor (User: trainer Passw: abc321.)
+Como administrador (User: root Passw: abc123.).
+Como recepcion (User: recep Passw: 1234).
+Como entrandor (User: trainer Passw: abc321.).
 
